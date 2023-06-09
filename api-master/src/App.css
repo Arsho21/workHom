@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+  
+}
+
+body {
+  background: #727ced;
+}
+
+
+.formInput{
+  margin-top: 200px;
+}
+
+
+.inputtext{
+  width: 350px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+.Add{
+  height: 30px;
+  margin-left: 5px;
+  border-radius: 5px;
+}
+
+.completed{
+  font-size: 14px;
+}
+
+.clearCompleted{
+  font-size: 12px;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-left: 5px;
+}
+
+.spanButton{
+  margin-left: 14%;
+}
+
+/* .delete{
+ border-radius: 5px;
+ margin-left: 3px;
+ width: 17px;
+ height: 17px;
+ /* padding: 2px; */
+ */
+
+.item{
+  background-color: aqua;
+}
